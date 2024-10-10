@@ -18,13 +18,40 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 10 月 10 号添加
+#### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客]( https://okjk.co/q4mQVu)
+* :white_check_mark: [投资策略模拟器]( https://investment-simulator.toolsnav.top)：帮助投资者和学习者模拟和比较不同投资策略在各种市场趋势下的表现。该工具通过直观的可视化界面和详细的数据分析，让用户能够深入了解各种投资策略的优劣，从而做出更明智的投资决策 - [更多介绍](https://www.cnblogs.com/hackersay/articles/18455394/investment-strategy-simulator)
+
+#### 诸葛子房
+- :white_check_mark: [Image Splitter](https://image-splitter.online)：免费在线图像分割工具，将图片切分多块并下载
+
+#### whinc - [Github](https://github.com/whinc)
+- :white_check_mark: [小而美工具](https://whinc.github.io/ucalc-website)：一款有温度的微信小程序，万年历/老黄历/公历/农历/佛历/道历/节气/节日/儿童(0-7岁)生长评估/青少年(7-18岁)生长评估/成人肥胖评估/亲戚称呼/科学计算器/法定退休年龄计算器/手电筒/DNF小助手 - [Github](https://github.com/whinc/ucalc-website)
+
+#### handsometong(厦门)
+- :white_check_mark: [Poster Generator](https://postergenerator.online)：海报生成器，用 Poster Generator 创建令人惊叹的定制海报，个人或商业用途均可免费使用
+
+#### caorushizi - [Github](https://github.com/caorushizi/mediago)
+- :white_check_mark: [mediago](https://downloader.caorushizi.cn/?form=github)：在线视频下载，m3u8 视频提取工具 - [更多介绍](https://github.com/caorushizi/mediago)
+
+### 2024 年 10 月 9 号添加
+#### huiwan-code - [Github](https://github.com/huiwan-code)
+- :white_check_mark: [EzyGraph](https://www.ezygraph.com)：用 AI 将博客内容转化为信息图。提升内容的可读性和互动性，使复杂的内容变得简单直观。通过丰富的模板和便捷的编辑器，用户可以轻松创建吸引眼球的视觉内容，适合用于社交媒体、营销推广和品牌宣传
+
+### 2024 年 10 月 8 号添加
+#### heora - [Github](https://github.com/yzqzy)
+- :white_check_mark: [微信助手 Pro](https://wxbot.dev/)：帮助你轻松管理微信，让你更专注于工作 - [查看更多](https://wxbot.dev/docs/intro)
+
+#### Kevin（长沙）
+- :white_check_mark: [海投简历](https://mengsi.online)：一键海投简历的工具，提升找工作的效率，节省心智负担
+
 ### 2024 年 10 月 6 号添加
 #### Song(广东)
-* :white_check_mark: [Colorbox Mustard](https://colorbox-mustard.com/)：受 Incredibox 启发的互动音乐创作平台,结合了生动的视觉效果和有趣的声音设计,为用户提供独特的创意体验
+- :white_check_mark: [Colorbox Mustard](https://colorbox-mustard.com/)：受 Incredibox 启发的互动音乐创作平台,结合了生动的视觉效果和有趣的声音设计,为用户提供独特的创意体验
 
 ### 2024 年 10 月 2 号添加
 #### yvonuk - [推特](https://twitter.com/mcwangcn)
-* :white_check_mark: [Web AI助手](https://web.stockai.trade)：极简、免费、易用的 ChatGPT。无需注册，Email 接码登录，GPT-4o-mini 模型免费使用，支持 GPT-4o 模型，支持实时联网
+- :white_check_mark: [Web AI助手](https://web.stockai.trade)：极简、免费、易用的 ChatGPT。无需注册，Email 接码登录，GPT-4o-mini 模型免费使用，支持 GPT-4o 模型，支持实时联网
 
 #### xiaocui723(佛山) 
 * :white_check_mark: [Sprunki Incredibox](https://sprunkiincredibox.net)：在线互动创作音乐的游戏，Sprunki Incredibox 提供简单的拖放系统，允许玩家将不同的声音、人声和节拍混合到他们的自定义曲目中。每个角色都代表着独特的音乐元素，使每首作品都真正个性化
